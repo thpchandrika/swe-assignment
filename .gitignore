@@ -1,0 +1,38 @@
+# Compiled Java class files
+*.class
+
+# Compiled bytecode
+*.jar
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Build and output directories
+/target/
+/bin/
+/out/
+/build/
+
+# Dependency directories
+/lib/
+/node_modules/
+/.gradle/
+/.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+.history
